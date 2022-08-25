@@ -13,7 +13,7 @@ module.exports = {
             },
             colors: {
                 primary: colors.orange,
-                dark: colors.black,
+                dark: colors.gray,
             },
         },
     },

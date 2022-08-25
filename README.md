@@ -1,9 +1,7 @@
-<p align="center">
-    <!-- <img src="src/assets/images/logo.png" width="80"> -->
+<p align="left">
+    <img src="src/assets/images/logo_dark.png" height="50">
 </p>
 
-### Screenshots
-![Screenshot - Prize Draw](src/assets/images/preview.png)
 
 #### Deploy on Github Pages
 `git subtree push --prefix src origin gh-pages`
